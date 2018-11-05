@@ -1,0 +1,13 @@
+.blue h1{
+    color:blueviolet;
+    font-size: 35px;
+    text-align: center;
+   
+}
+p{
+
+    color:green;
+}
+p.large-text{
+    font-size:35px;
+}
